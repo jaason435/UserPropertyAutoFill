@@ -15,10 +15,10 @@ var params = {
 		'NameOfSharePointUserProfileProperty': 'NameOfField',
 		'FirstName': null,
 		'LastName': null,
-    'Location': null,
-    'UserName': null,
-    'Region': null
-  }
+    		'Location': null,
+    		'UserName': null,
+    		'Region': null
+  	}
 }
 
 $(document).ready(function() {
